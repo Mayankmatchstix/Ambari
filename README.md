@@ -1,0 +1,2 @@
+# Ambari
+Ambari docs
